@@ -3,14 +3,19 @@ owner: rajensr # Your GitHub organization or username, where this repository liv
 repo: personal_uptime_monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-
+  - name: Personal Website
+    url: https://rajensikder.com/
+  - name: SNBD Host Client Portal
+    url: https://app.snbdhost.com/
+  - name: SNBD Host Payment Portal
+    url: https://securepayment.snbdhost.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 
-  baseUrl: /personal_uptime_monitor
+  #baseUrl: /personal_uptime_monitor
+  cname:u uptime.rajensikder.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
