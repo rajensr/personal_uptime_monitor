@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rajensikder.com.ico",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "6.13%",
-    "uptimeDay": "6.13%",
-    "uptimeWeek": "6.13%",
-    "uptimeMonth": "6.13%",
-    "uptimeYear": "6.13%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 75
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1772,
-    "timeDay": 1772,
-    "timeWeek": 1772,
-    "timeMonth": 1772,
-    "timeYear": 1772,
+    "time": 1791,
+    "timeDay": 1791,
+    "timeWeek": 1791,
+    "timeMonth": 1791,
+    "timeYear": 1791,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6334,
-    "timeDay": 6334,
-    "timeWeek": 6334,
-    "timeMonth": 6334,
-    "timeYear": 6334,
+    "time": 3639,
+    "timeDay": 3639,
+    "timeWeek": 3639,
+    "timeMonth": 3639,
+    "timeYear": 3639,
     "dailyMinutesDown": {}
   }
 ]
