@@ -10,7 +10,8 @@ sites:
     url: https://securepayment.snbdhost.com
 
 status-website:
-  baseUrl: /personal_uptime_monitor
+  #baseUrl: /personal_uptime_monitor
+  cname: uptime.rajensikder.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
