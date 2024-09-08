@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 230,
+      "2024-09-08": 265,
       "2024-09-07": 1440,
       "2024-09-06": 965
     }
@@ -44,19 +44,19 @@
     "url": "https://securepayment.snbdhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/securepayment.snbdhost.com.ico",
     "slug": "snbd-host-payment-portal",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 2450,
-    "timeDay": 1160,
-    "timeWeek": 2450,
-    "timeMonth": 2450,
-    "timeYear": 2450,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 2693,
+    "timeDay": 2776,
+    "timeWeek": 2693,
+    "timeMonth": 2693,
+    "timeYear": 2693,
     "dailyMinutesDown": {
-      "2024-09-08": 0,
+      "2024-09-08": 35,
       "2024-09-06": 20
     }
   }
