@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 265,
+      "2024-09-09": 63,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 965
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4077,
-    "timeDay": 1689,
-    "timeWeek": 4077,
-    "timeMonth": 4077,
-    "timeYear": 4077,
+    "time": 3759,
+    "timeDay": 1847,
+    "timeWeek": 3759,
+    "timeMonth": 3759,
+    "timeYear": 3759,
     "dailyMinutesDown": {}
   },
   {
@@ -45,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/securepayment.snbdhost.com.ico",
     "slug": "snbd-host-payment-portal",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "98.58%",
     "uptimeDay": "97.56%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
-    "time": 2693,
-    "timeDay": 2776,
-    "timeWeek": 2693,
-    "timeMonth": 2693,
-    "timeYear": 2693,
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 2829,
+    "timeDay": 4156,
+    "timeWeek": 2829,
+    "timeMonth": 2829,
+    "timeYear": 2829,
     "dailyMinutesDown": {
       "2024-09-08": 35,
       "2024-09-06": 20
